@@ -8,7 +8,7 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold text-gray-900 dark:text-white mb-4">TaskMaster</h3>
             <p className="text-gray-600 dark:text-gray-300">
-              A modern React application built with TypeScript, Tailwind CSS, and best practices.
+              Streamline your workflow with this intuitive task manager and API data explorer
             </p>
           </div>
 
